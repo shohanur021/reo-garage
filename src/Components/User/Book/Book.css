@@ -1,0 +1,36 @@
+.shipping-form{
+    box-shadow: rgba(136, 165, 191, 0.48) 0px 22px 70px 4px;
+    border-radius:3px;
+    text-align: center;
+    width: 400px;
+    padding: 10px 0px !important;
+
+}
+.shipping-form input{
+    display: block;
+    margin: 15px auto 0 auto;
+    padding:5px;
+    border:1px solid gray;
+    border-radius:5px;
+    width:300px
+}
+.error{
+    color:red;
+}
+.shipping-form p{
+  margin-top: 13px;
+}
+.accountSetting{
+    color:rgb(46, 44, 189);
+    text-decoration: underline
+}
+.submitStyle{
+    font-weight: 600;
+    background-color:rgba(19, 122, 153, 0.733) ;
+    color:white
+}
+
+.Payment-container{
+    width: 450px;
+    box-shadow: rgb(201, 203, 248) 0px 0px 0px 2px, rgb(167, 243, 165) 0px 0px 0px 4px, rgb(235, 215, 116) 0px 0px 0px 6px, rgb(255, 156, 85) 0px 0px 0px 8px, rgb(255, 85, 85) 0px 0px 0px 10px;
+}

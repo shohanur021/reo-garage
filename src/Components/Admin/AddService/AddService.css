@@ -1,0 +1,12 @@
+.serviceformStyle{
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+.service_details{
+    display: block;
+    margin: 15px auto 0 auto !important;
+    padding:5px;
+    border-radius:5px;
+    height: 180px !important;
+    resize: none
+}

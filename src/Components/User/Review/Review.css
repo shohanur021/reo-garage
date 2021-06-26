@@ -1,0 +1,36 @@
+.shipping-form{
+    box-shadow: rgba(136, 165, 191, 0.48) 0px 22px 70px 4px;
+    border-radius:3px;
+    text-align: center;
+    width: 400px;
+    padding: 10px 0px !important;
+}
+.shipping-form input{
+    display: block;
+    margin: 15px auto 0 auto;
+    padding:5px;
+    border:1px solid gray;
+    border-radius:5px;
+    width:350px
+}
+
+.shipping-form textarea{
+    display: block;
+    margin: 15px auto 0 auto !important;
+    padding:5px;
+    border:1px solid gray;
+    border-radius:5px;
+    width:350px;
+    height: 180px !important;
+    resize: none
+}
+
+.error{
+    color:red;
+}
+
+.submitStyle{
+    font-weight: 600;
+    background-color:rgba(19, 122, 153, 0.733) ;
+    color:white
+}
